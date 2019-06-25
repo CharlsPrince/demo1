@@ -10,7 +10,7 @@
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
-  // asdfas
+  // asdfasasdfasd
   name: 'app',
   components: {
     HelloWorld
