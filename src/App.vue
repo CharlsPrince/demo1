@@ -5,10 +5,12 @@
   </div>
 </template>
 
+
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
+  // asdfas
   name: 'app',
   components: {
     HelloWorld
